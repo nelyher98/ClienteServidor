@@ -41,7 +41,7 @@ namespace Proyecto4.Alumnos
         private string get_connectionString()
         {
             string r;
-            r = @"Data Source = DESKTOP-1V3E8C5\SQLEXPRESS;Initial Catalog=UPP;User ID=sa;Password=AAA;";
+            r = @"Data Source = ;Initial Catalog=UPP;User ID=sa;Password=AAA;";
             return r;
         }
 
