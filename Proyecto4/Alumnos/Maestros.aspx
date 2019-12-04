@@ -40,7 +40,7 @@
             <asp:RequiredFieldValidator ID="RequiredFieldValidator2" ForeColor="Red" ControlToValidate="TxtCorreo" runat="server" ErrorMessage="Correo requerido"></asp:RequiredFieldValidator>
         </div>
 
-    </div>
+    </div> 
 
     <div class="row">
 
